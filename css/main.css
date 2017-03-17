@@ -2,6 +2,15 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
+.contact {
+  background-color: #f2f2f2;
+}
+
+
 h1 {
   border-bottom: 1px solid #000;
+}
+
+input, select, textarea, text {
+  background: #f2f2f2;
 }
