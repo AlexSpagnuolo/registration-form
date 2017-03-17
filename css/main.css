@@ -2,7 +2,7 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
-body, .contact {
+body, .form {
   background-color: #fff;
 }
 
@@ -16,6 +16,7 @@ input, select, textarea, text {
 
 legend {
   padding-right: 1rem;
+  padding-bottom: .45rem;
 }
 
 @media only screen and (min-width: 60em) {
